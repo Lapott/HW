@@ -21,4 +21,5 @@ hostmin4 = net4 + 1
 print (f"hostmax = {net1}.{net2}.{net3}.{hostmin4}")
 hostmax4 = broad4 - 1
 print (f"broadcast = {broad1}.{broad2}.{broad3}.{hostmax4}")
-
+#
+#
